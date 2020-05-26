@@ -6,7 +6,6 @@ The main variable of interest is Review as the classification/cluster analysis/s
 2. __GoodReads__ - The dataset is scraped from [Goodreads](https://www.goodreads.com/) to analyze the data. A specific year is chosen,
 to analyze the data and ratings of books that are more modern. It consists of 100 observations. 
 
-3. __Lyrics__ - The dataset is scraped from [Genius](https://genius.com/) to analyze the lyrics of songs that are charted as all-time top by Genius.. A specific year is chosen,
- It consists of 100 observations. 
+3. __Lyrics__ - The dataset is scraped from [Genius](https://genius.com/) to analyze the lyrics of songs that are charted as all-time top by Genius. It consists of 100 observations. 
 
 
